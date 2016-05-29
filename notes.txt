@@ -1,0 +1,14 @@
+angular Meodule Method
+
+Setting method angular.module("name", []);
+
+Getter method angular.module("name");
+
+
+If a model is bound to a function it will re run the funtion when it changes.
+bind return of a function to a model object but do it in a function if it needs to recalculate when things change
+
+
+using node static as webserver for development 
+
+in command line 'static'
